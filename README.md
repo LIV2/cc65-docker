@@ -1,6 +1,6 @@
 # cc65 docker container
 
-Containerized [cc66 toolchain](https://github.com/cc65/cc65)
+Containerized [cc65 toolchain](https://github.com/cc65/cc65)
 
 Usage:
 ```
